@@ -29,8 +29,8 @@ I'm completing a B.Sc. in Social Work at the University of Lagos (First Class), 
 | Project | What it is | Stack |
 | --- | --- | --- |
 | **[GOYE](https://goye-mauve.vercel.app)** | Coursera-style learning platform for churches. Users sign up as a tutor or learner. Real-time chat with read receipts and reply threading, course creation, content uploads, and quizzes. 50+ screens across mobile and web. | React Native, Expo, React, Socket.IO, Firebase |
-| **Invoicy** ([Google Play](#)) | Invoice maker app: create and download invoices with custom business logos, plus automated invoice reminders. | React Native, Expo |
-| **Kamplug** ([link](#)) | Campus marketplace where students buy and sell, with swap/give-away and rental sections, designed to scale across universities. | [add stack] |
+| **Invoicy** ([Google Play](https://play.google.com/store/apps/details?id=com.temzy.mobileinvoiceapp)) | Invoice maker app: create and download invoices with custom business logos, plus automated invoice reminders. | React Native, Expo |
+| **Kamplug** ([link](https://online-store-brown-alpha.vercel.app/)) | Campus marketplace where students buy and sell, with swap/give-away and rental sections, designed to scale across universities. | [add stack] |
 | **[ShortLink](https://get.shortlnk.live)** | URL shortener with custom aliases, branded QR codes, and a searchable visit-stats dashboard. | [add stack] |
 
 ## Highlights
@@ -43,5 +43,5 @@ I'm completing a B.Sc. in Social Work at the University of Lagos (First Class), 
 ## Let's connect
 
 - 📧 [sulaimantemiloluwa24@gmail.com](mailto:sulaimantemiloluwa24@gmail.com)
-- 💼 [LinkedIn](https://linkedin.com/in/your-handle)
+- 💼 [LinkedIn]([https://linkedin.com/in/your-handle](https://www.linkedin.com/in/temiloluwa-sulaiman-58bb21282?utm_source=share_via&utm_content=profile&utm_medium=member_android))
 - 🐙 [GitHub](https://github.com/Temiloluwa1616)
